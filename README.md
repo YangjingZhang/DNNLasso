@@ -7,7 +7,9 @@ Authors: Meixia Lin and Yangjing Zhang
 Main solver: DNNLasso.m
 
 For demonstration purposes, you may run 
+
 test_synthetic.m
+
 test_coil100.m
 
 Citation:
